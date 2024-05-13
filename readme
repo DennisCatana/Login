@@ -4,4 +4,9 @@
  4. npx ionic g service services/avatar
  5. npm i @capacitor/camera
  6. npm i @ionic/pwa-elements
- 7. npm i @angular/fire    
+ 7. npm i @angular/fire  
+ 8. npm install firebase
+ 9. credenciales 
+ 10. npm install @angular/cli 
+ 11. npm i -g firebase-tools
+ 12. firebase init
